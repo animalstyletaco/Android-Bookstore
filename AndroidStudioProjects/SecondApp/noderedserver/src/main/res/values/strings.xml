@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NodeRedServer</string>
+    <string name="secondActivityBtnValue">Second Activity</string>
+    <string name="googleSearchActivityValue">Node Red Server</string>
+    <string name="databaseConnection">MySQL Test</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>

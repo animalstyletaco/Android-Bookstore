@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Second Activity Launcher - Web Browsing</string>
+    <string name="secondActivityBtnValue">Second Activity</string>
+    <string name="googleSearchActivityValue">Google Search</string>
+</resources>
